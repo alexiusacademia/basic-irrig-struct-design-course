@@ -1,0 +1,20 @@
+{
+  "name": "basic-irrig-design-course",
+  "version": "0.0.1",
+  "description": "Basic Irrigation Structures Design Course",
+  "main": "index.js",
+  "authors": {
+    "name": "ASA",
+    "email": "alexius.academia@gmail.com"
+  },
+  "repository": "/basic-irrig-design-course",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-vuetify": "^1.0.1"
+  }
+}
