@@ -6,4 +6,6 @@ This course aims to use the science of hydrology and hydraulics engineering for 
 
 This course will be fast paced but still can be easily understood and comprehend. Introduction of differential equations is eliminated so that no masters degree is necessary to easily understand the calculations.
 
+This course consist of both lectures and workshops. The workshops may be given after each topic or group of topics. It is also advisable that most of the workshops be done in group. This will develop the participant's collaborative skills and this is also what is practiced in real life.
+
 **[Go to Part One →](/part1/)**
