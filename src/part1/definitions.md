@@ -65,7 +65,7 @@ Channels that drain out excess water from the fields.
 Channels to convey water from field drains to natural drains.
 
 #### Main Drains or Project Drains
-Natural waterways of manmade channels draining water to the rivers.
+Natural waterways or manmade channels draining water to the rivers.
 
 
 ## 4. Command Area
