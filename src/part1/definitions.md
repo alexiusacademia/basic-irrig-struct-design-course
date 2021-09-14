@@ -76,7 +76,7 @@ Area scoped by the canal system and can be classified into three types.
 
 The geographical area that the water from the canal can flow by gravity.
 
-### Culutable Command Area (CCA)
+### Culturable Command Area (CCA)
 
 Land on which cultivation is possible.
 
