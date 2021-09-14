@@ -43,7 +43,7 @@ Negotiates topographical and man-made features.
 Network of channels designed to convey water from the head regulator to the farms and is extended to the entire service area.
         
 #### Protective Structures
-Protects the irrigation system structures from storm water runoff of natual drains.
+Protects the irrigation system structures from storm water runoff of natural drains.
         
 #### Regulatig Structures
 Controls the water flow in the conveyance system.
