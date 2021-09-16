@@ -4,4 +4,4 @@ Part 1 is the design and analysis of canal system. This involves both irrigation
 
 The following are the contents of this part.
 
-[1. Definition of Termsgit](definitions)
+[1. Definition of Terms](definitions)
